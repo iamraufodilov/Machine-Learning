@@ -58,4 +58,4 @@ logisticRegr.score(test_img, test_lbl)
 
 
 # in this project we used PCA to improve speed of the model because our data has so many features 
-# in case 784 feature sor lowering that dimesion to several PCA will speed up model performance 
+# in case 784 feature sor lowering that dimesion to several PCA will speed up model performance
